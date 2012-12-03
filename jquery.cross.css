@@ -1,0 +1,25 @@
+#main_mv {
+  width: 640px;
+  height:245px;
+  overflow: hidden;
+  margin-bottom: 20px;
+  position: relative;
+}
+#main_mv ul {
+  padding: 0 !important;
+  margin:0 !important;
+  text-decoration: none !important;
+  line-height: 0 !important;
+}
+#main_mv ul li {
+  width: 640px;
+  padding: 0 !important;
+  margin:0 !important;
+  text-decoration: none !important;
+}
+#main_mv ul li .dnone {
+  display: none;
+}
+#main_mv ul li img {
+  position: absolute;
+}
